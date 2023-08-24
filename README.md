@@ -1,2 +1,2 @@
 # pdf-rename
-PDF renamer script written in python
+PDF renamer script written in python, using pikepdf
